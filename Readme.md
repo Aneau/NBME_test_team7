@@ -1,6 +1,6 @@
 # 2025 NLP Final Project team 7
 
-##Kaggle Competition:##
+Kaggle Competition:<br>
 NBME - Score Clinical Patient Notes<br>
 https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes
 
