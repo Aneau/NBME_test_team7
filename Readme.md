@@ -13,5 +13,5 @@ https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes
 6.Ensemble model-DeBERTa-v3-large+DeBERTa-v1-large+DeBERTa-v1-base
 
 ## Testing model
-* Ann: Bio-ClinicalBERT、TAPT with DeBERTa-v3-base 
+* Shih-An: Bio-ClinicalBERT、TAPT with DeBERTa-v3-base 
 * Xiao-Min: Deberta-v3-base、Deberta-v3-small
