@@ -1,10 +1,8 @@
-# 2025 NLP group final team 7
+# 2025 NLP group final project team 7
 
 Kaggle Competition:
 NBME - Score Clinical Patient Notes
 
-## testing model
-ann:
-
-xiao-min:
-Deberta-v3-base、Deberta-v3-small
+## Testing model
+Ann: Bio-ClinicalBERT、TAPT with DeBERTa-v3-base
+Xiao-Min: Deberta-v3-base、Deberta-v3-small
