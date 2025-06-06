@@ -5,8 +5,8 @@ NBME - Score Clinical Patient Notes
 https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes
 
 ## Exploring Multi-Model Performance on NBME- Score Clinical Patient Notes
-1.DeBERTa-v3-base (Baseline) \n
-2.Bio_ClinicalBERT \n
+1.DeBERTa-v3-base (Baseline) 
+2.Bio_ClinicalBERT 
 3.Task-Adaptive Pretraining（TAPT）with DeBERTa-v3-base 
 4.DeBERTa-v3-small 
 5.DeBERTa-v3-large 
